@@ -10,9 +10,41 @@ CSS Além do Básico: Como Utilizar Keyframes para Animações Personalizadas
 
 ## Capa
 
+> Generate a tech banner for an article about CSS and Keyframes. Use fonts and forms to assembly moviment.
+
 ![Cover](./CSSKeyframes.gif)
 
 Feita com Bing e Microsoft Designer
+
+## Ilustrações
+
+### Bloco HTML & CSS
+
+### Bloco @Keyframe
+
+Image Creator:
+
+HTML & CSS
+
+> Crie uma arte utilizando tags html, explicitamente \<div>, \<p>, \<button>, etc.
+
+![htmlcss](./htmlcssPic.jpeg)
+
+@keyframes
+
+> Ilustração cartoon de números, cores, códigos e fórmulas. voando quase em espiral.
+
+![keyframes](./keyframesPic.jpeg)
+
+Animations:
+
+> Ilustração cartoon de tags e símbolos \<p> \<h1> \<button> \<divs> etc. voando em movimento.
+
+![animations](./animationsPic.jpeg)
+
+Prompt Inicial do Microsoft Designer:
+
+> Create a modern tech illustration for an article about CSS animations. The style should be modern and sleek. The illustration should depict CSS animations in action.
 
 ## Blocos
 
@@ -50,25 +82,18 @@ Bloco 3:
         - Como usar
         - Explicação da Sintaxe -> animation-name duration timing-function delay iteration-count direction fill-mode;
 
-Bloco 4:
-
-    Quarto bloco:
-
-    - Transition
-        - Explicação da Sintaxe -> transition-delay transition-duration transition-property transition-timing-function transition-behavior
-        - Diferenças para o Animation
-        - Como usar em conjunto com animation
-
 Final:
 
-    - Faça um call Action para meu github
+    - gere um bloco de conclusão junto com o call action para meu github
 
 ## Checklist
 
-- [] Definir assunto;
-- [] Título Chamativo: Headline
-- [] Imagem de Capa Chamativa
-- [] Blocos do Artigo
-- [] Postar o artigo com um call to action
+- [x] Definir assunto;
+- [x] Título Chamativo: Headline
+- [x] Imagem de Capa Chamativa
+- [x] Blocos do Artigo
+- [x] Postar o artigo com um call to action
 
 ## Link do Artigo
+
+[DIO/CSS Alem do Básico](https://web.dio.me/articles/css-alem-do-basico-como-utilizar-keyframes-para-animacoes-personalizadas)
